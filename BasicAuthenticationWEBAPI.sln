@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAuthenticationWEBAPI", "BasicAuthenticationWEBAPI.csproj", "{C9E25A9B-9C95-433B-A617-6A58611AB8F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E25A9B-9C95-433B-A617-6A58611AB8F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E25A9B-9C95-433B-A617-6A58611AB8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E25A9B-9C95-433B-A617-6A58611AB8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E25A9B-9C95-433B-A617-6A58611AB8F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC0652B1-95D1-4ED1-8B22-9588B3D1F7EB}
+	EndGlobalSection
+EndGlobal
