@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAuthenticationWEBAPI", "BasicAuthenticationWEBAPI.csproj", "{C9E25A9B-9C95-433B-A617-6A58611AB8F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webAppConsumeWebAPI", "webAppConsumeWebAPI\webAppConsumeWebAPI.csproj", "{12C41DDB-CE8B-43D4-B94C-F110981FA019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppConsumeWebAPI", "ConsoleAppConsumeWebAPI\ConsoleAppConsumeWebAPI.csproj", "{55A36C0D-91D3-4B80-BD3B-36A1F5998280}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C9E25A9B-9C95-433B-A617-6A58611AB8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9E25A9B-9C95-433B-A617-6A58611AB8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9E25A9B-9C95-433B-A617-6A58611AB8F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C41DDB-CE8B-43D4-B94C-F110981FA019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C41DDB-CE8B-43D4-B94C-F110981FA019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C41DDB-CE8B-43D4-B94C-F110981FA019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C41DDB-CE8B-43D4-B94C-F110981FA019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A36C0D-91D3-4B80-BD3B-36A1F5998280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A36C0D-91D3-4B80-BD3B-36A1F5998280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A36C0D-91D3-4B80-BD3B-36A1F5998280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A36C0D-91D3-4B80-BD3B-36A1F5998280}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

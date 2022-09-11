@@ -1,0 +1,16 @@
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\bin\Debug\netcoreapp3.1\ConsoleAppConsumeWebAPI.exe
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\bin\Debug\netcoreapp3.1\ConsoleAppConsumeWebAPI.deps.json
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\bin\Debug\netcoreapp3.1\ConsoleAppConsumeWebAPI.runtimeconfig.json
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\bin\Debug\netcoreapp3.1\ConsoleAppConsumeWebAPI.runtimeconfig.dev.json
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\bin\Debug\netcoreapp3.1\ConsoleAppConsumeWebAPI.dll
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\bin\Debug\netcoreapp3.1\ConsoleAppConsumeWebAPI.pdb
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\obj\Debug\netcoreapp3.1\ConsoleAppConsumeWebAPI.csproj.AssemblyReference.cache
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\obj\Debug\netcoreapp3.1\ConsoleAppConsumeWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\obj\Debug\netcoreapp3.1\ConsoleAppConsumeWebAPI.AssemblyInfoInputs.cache
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\obj\Debug\netcoreapp3.1\ConsoleAppConsumeWebAPI.AssemblyInfo.cs
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\obj\Debug\netcoreapp3.1\ConsoleAppConsumeWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\obj\Debug\netcoreapp3.1\ConsoleAppConsumeWebAPI.csproj.CopyComplete
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\obj\Debug\netcoreapp3.1\ConsoleAppConsumeWebAPI.dll
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\obj\Debug\netcoreapp3.1\ConsoleAppConsumeWebAPI.pdb
+C:\Users\cgao\Documents\GitHub\BasicAuthenticationInWEBAPI\ConsoleAppConsumeWebAPI\obj\Debug\netcoreapp3.1\ConsoleAppConsumeWebAPI.genruntimeconfig.cache

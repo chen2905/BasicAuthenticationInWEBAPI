@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f84pmbrz5Kem9WQ8KpWHjLjtC5CWK2fAUP1ykNYoCDOZOklt9R1NgbfE7Q8nMn8c2XO2KQqa7IVtOqdf3pekkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cgao\\Documents\\GitHub\\BasicAuthenticationInWEBAPI\\ConsoleAppConsumeWebAPI\\ConsoleAppConsumeWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cgao\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
